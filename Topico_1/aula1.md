@@ -4,6 +4,7 @@
   Códigos, hackers e telas cheias de números que ninguém entende direito fazem parte do que conhecemos popularmente como programação. Mas o que de fato é programação?<br>
 
   Seria muita prepotência minha prometer o esclarecimento dessa questão em um texto tão curto com uma proposta de ser para uma pessoa que está iniciando na área, porém no andamento dessas aulas pretendo fazer com que você consiga descobrir essa resposta por si só, mas sem que você se sinta 'abandonado' lendo textos gigantes e técnicos que ainda não fazem sentido. <br>
+  
   Antes de começar, vou deixar claro que a *Linguagem de programação* que iremos aprender primeiro é o *C*, e eu sei que muita gente torce o nariz pra isso ainda mais quando há linguagens como *python* que são super "calorosas" para pessoas que estão iniciando agora, mas acredito que para aprender a programar é fundamental ter algumas bases que só a linguagem C pode proporcionar por ser uma linguagem bem precursora aí no mundo da programação.
   - *Como é um curso de introdução, vou explicar *cada* termo técnico utilizado em 'bullet points'.*
     - Bullet Points: Listas como essa que você está lendo agora.
@@ -16,6 +17,7 @@
 
 <p>
   Para fazer esse curso? Vontade de aprender. Aprendi a programar na base do tiro porrada e bomba, e o propósito de eu querer ensinar é para que no seu ensino, você não passe pelas dificuldades ruins que passei (vão ter dificuldades, mas dificuldades boas), então vou segurar sua mão até que consiga caminhar sozinho.(Para garantir isso estou contando com auxílio pedagógico de jabá)<br>
+  
   Mas vou te adiantar que para essa área é fundamental que você tenha noções avançadas de inglês, pois por mais que o google tradutor seja eficiente a maioria dos materiais disponibilizados estão em inglês.
 </p>
 
