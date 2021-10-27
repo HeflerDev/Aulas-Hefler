@@ -7,9 +7,9 @@ e suas classificações. Mas afinal, que classificações são essas?
 
 ## Tiṕos
 Para esse primeiro contato, nós vamos considerar 3 classificações de variáveis:
-  * Número: São as variáveis que possuem um valor **numérico**.
-  * String: São as variáveis que possuem um valor de **texto**.
-  * Boolean:  São as variáveis que possuem como valor **Verdadeiro** ou **Falso**.
+  * Número: São as variáveis que possuem um valor **numérico**. (São declados como `10`)
+  * String: São as variáveis que possuem um valor de **texto**. (São declarados como `'String'`
+  * Boolean:  São as variáveis que possuem como valor **Verdadeiro** ou **Falso**. (São declarados como `true`)
 
 ## Como Declarar
 Existem 2 meios de declarar variáveis:
