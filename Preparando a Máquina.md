@@ -14,7 +14,7 @@ Instale o [Node.js](https://nodejs.org/en/download/) <<<
 
 ### Git
 
-Para salvarmos nossos trabalhos em um lugar seguro fazer controle de versionamento, necessitamos de instalar o git.
+Para fazer controle de versionamento, necessitamos de instalar o git.
 O git cuida de todos os repositórios **LOCAIS**.
 
 Instale o [Git](https://git-scm.com/) <<<
@@ -25,3 +25,9 @@ VSCode será o editor de texto que utilizaremos para escrever códigos. Ele perm
 
 Instale o [VSCode](https://code.visualstudio.com/Download) <<<
 Também, dentro do VSCode na aba 'Extensões', instale 'Code Runner' e 'Node Essentials'
+
+### Github Desktop
+
+Para salvarmos nossos trabalhos em um lugar seguro e armazenarmos nossos repositórios git.
+
+Instale o [Github](https://desktop.github.com/)
