@@ -30,4 +30,4 @@ Também, dentro do VSCode na aba 'Extensões', instale 'Code Runner' e 'Node Ess
 
 Para salvarmos nossos trabalhos em um lugar seguro e armazenarmos nossos repositórios git.
 
-Instale o [Github](https://desktop.github.com/)
+Instale o [Github](https://desktop.github.com/) <<
